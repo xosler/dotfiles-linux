@@ -5,7 +5,7 @@
 Every developer has his own scripts and aliases to speed-up development and common tasks.
 These are mine, based on the great [holman/dotfiles](http://github.com/holman/dotfiles) project.
 
-## that differ this from the 'original'?
+## what differ this from the 'original'?
 
 Simple: holman uses Mac OS, I use Linux. See what just happened here? I don't have a mac-command-key,
 neither other executables exclusive for that OS, so, I tweaked it to work in a simple linux box.
@@ -17,7 +17,7 @@ I also removed a lot of thing I dont use, tunned other, well, I messed up everyt
 Run this:
 
 ```sh
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
+git clone https://github.com/caarlos0/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
