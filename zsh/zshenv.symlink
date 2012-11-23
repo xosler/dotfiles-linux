@@ -1,0 +1,4 @@
+# rbenv shit
+PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+
