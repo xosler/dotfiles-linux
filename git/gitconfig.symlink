@@ -5,10 +5,10 @@
 [hub]
         protocol = https
 [user]
-        name = Zach Holman
-        email = zach@zachholman.com
+        name = Carlos Alexandro Becker
+        email = caarlos0@gmail.com
 [credential]
-        helper = osxkeychain
+        helper = cache --timeout=3600000
 [alias]
         co = checkout
         promote = !$ZSH/bin/git-promote
