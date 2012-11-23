@@ -1,20 +1,16 @@
-# holman does dotfiles
+# caarlos0 also does dotfiles
 
 ## dotfiles
 
-Your dotfiles are how you personalize your system. These are mine. The very
-prejudiced mix: OS X, zsh, Ruby, Rails, git, homebrew, rbenv, vim. If you
-match up along most of those lines, you may dig my dotfiles.
+Every developer has his own scripts and aliases to speed-up development and common tasks.
+These are mine, based on the great [holman/dotfiles](http://github.com/holman/dotfiles) project.
 
-I was a little tired of having long alias files and everything strewn about
-(which is extremely common on other dotfiles projects, too). That led to this
-project being much more topic-centric. I realized I could split a lot of things
-up into the main areas I used (Ruby, git, system libraries, and so on), so I
-structured the project accordingly.
+## that differ this from the 'original'?
 
-If you're interested in the philosophy behind why projects like these are
-awesome, you might want to [read my post on the
-subject](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/).
+Simple: holman uses Mac OS, I use Linux. See what just happened here? I don't have a mac-command-key,
+neither other executables exclusive for that OS, so, I tweaked it to work in a simple linux box.
+I also removed a lot of thing I dont use, tunned other, well, I messed up everything.
+
 
 ## install
 
@@ -88,9 +84,13 @@ and I'd love to get it fixed for you!
 
 ## thanks
 
-I forked [Ryan Bates](http://github.com/ryanb)' excellent
-[dotfiles](http://github.com/ryanb/dotfiles) for a couple years before the
-weight of my changes and tweaks inspired me to finally roll my own. But Ryan's
+I forked [Zach Holman](http://github.com/holman)' excellent
+[dotfiles](http://github.com/holman/dotfiles) for a couple hours before the
+weight of my changes and tweaks inspired me to finally roll my own. But Holman's
 dotfiles were an easy way to get into bash customization, and then to jump ship
 to zsh a bit later. A decent amount of the code in these dotfiles stem or are
-inspired from Ryan's original project.
+inspired from Ryan's original project, then from Holman's project, then from 
+oh-my-zsh project, then something else I do by myself.
+
+enjoy.
+
