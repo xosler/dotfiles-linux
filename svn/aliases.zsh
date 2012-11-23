@@ -1,0 +1,5 @@
+alias svnu='svn up'
+alias svns='svn stat'
+alias svnl='svn log -l 10'
+alias svnc='svn commit'
+alias svndv='svn diff | vim -'
