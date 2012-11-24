@@ -32,6 +32,8 @@ task :install do
     end
     `ln -s "$PWD/#{linkable}" "#{target}"`
   end
+  # setup sublime...
+  `$PWD/sublime2/setup`
 end
 
 task :uninstall do
