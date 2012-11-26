@@ -1,7 +1,7 @@
 #
 # Just some utilities for use in ecm development.
 #
-
+set -e
 setopt rmstarsilent
 
 HOME="/home/carlos"
@@ -36,8 +36,8 @@ ecmup() {
 ecmbuild() {
 	echo "build? no problem sir..."
 	cd $VOLDEMORT && mvncie && \
-	cd $VOLDEMORT/social-ecm && \
-	cd $VOLDEMORT/wcm && mvncie && \
+#	cd $VOLDEMORT/social-ecm && \
+#	cd $VOLDEMORT/wcm && mvncie && \
 	cd $ECM/wecmpackage && mvncie && \
 	cd $VOLDEMORT/ecm && mvncie && \
 	ecminstall
