@@ -1,7 +1,6 @@
 #
 # Just some utilities for use in ecm development.
 #
-set -e
 setopt rmstarsilent
 
 HOME="/home/carlos"
