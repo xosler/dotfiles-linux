@@ -268,3 +268,6 @@
 [submodule "vim/vim.symlink/bundle/joestelmach-javaScriptLint"]
 	path = vim/vim.symlink/bundle/joestelmach-javaScriptLint
 	url = https://github.com/joestelmach/javaScriptLint.vim
+[submodule "vim/vim.symlink/bundle/digitaltoad-vim-jade"]
+	path = vim/vim.symlink/bundle/digitaltoad-vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
