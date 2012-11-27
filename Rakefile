@@ -34,6 +34,7 @@ task :install do
   end
   # setup sublime...
   `$PWD/sublime2/setup`
+  `git submodule update`
 end
 
 task :uninstall do
