@@ -3,7 +3,6 @@
 #
 setopt rmstarsilent
 
-HOME="/home/carlos"
 ECM_WS="$HOME/totvs/ws"
 ECM_JBOSS="$HOME/Public/ecm/JBoss-7.1.1"
 ECM_PORT="8080"
