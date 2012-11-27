@@ -34,11 +34,11 @@ ecmup() {
 # build it!
 ecmbuild() {
 	echo "build? no problem sir..."
-	cd $VOLDEMORT && mvncie && \
+#	cd $VOLDEMORT && mvncie && \
 #	cd $VOLDEMORT/social-ecm && \
 #	cd $VOLDEMORT/wcm && mvncie && \
 	cd $ECM/wecmpackage && mvncie && \
-	cd $VOLDEMORT/ecm && mvncie && \
+	cd $VOLDEMORT/ && mvncie && \
 	ecminstall
 }
 
