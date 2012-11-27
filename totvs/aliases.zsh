@@ -22,7 +22,7 @@ alias ecmi=ecminstall
 alias ecmri=ecmruninstall
 alias ecm=ecmfull
 alias se='MAVEN_OPTS="-Xmx2048m -XX:MaxPermSize=512m -DskipTests=true" ecm'  
-
+alias se_somebody_screw_everything_up=somebody_screw_everything_up
 
 # update ecm
 ecmup() {
@@ -118,6 +118,12 @@ ecmfull() {
 	ecmclean
 	ecmup
 	ecmbuild && ecmstart
+}
+
+somebody_screw_everything_up() {
+  while true; do
+    cd $VOLDEMORT && svn up && cd $ECM && svn up && sleep 10 
+  done
 }
 
 
