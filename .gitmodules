@@ -253,9 +253,6 @@
 [submodule "vim/vim.symlink/bundle/xsunsmile-showmarks"]
 	path = vim/vim.symlink/bundle/xsunsmile-showmarks
 	url = https://github.com/xsunsmile/showmarks.git
-[submodule "vim/vim.symlink/bundle/digitaltoad-vim-jade"]
-	path = vim/vim.symlink/bundle/digitaltoad-vim-jade
-	url = git://github.com/digitaltoad/vim-jade.git
 [submodule "vim/vim.symlink/bundle/tpope-vim-ragtag"]
 	path = vim/vim.symlink/bundle/tpope-vim-ragtag
 	url = https://github.com/tpope/vim-ragtag
