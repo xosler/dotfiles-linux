@@ -14,3 +14,19 @@ alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
 alias ga='git add'
 alias gaa='git add -A'
 
+gnewfeat() {
+  git checkout -b $1 develop
+}
+
+gmerge() {
+  git checkout develop
+  git merge --no-ff $1
+  git branch -d $1
+  git push origin develop
+}
+
+grel() {
+  git checkout -b release$1 develop
+}
+
+
