@@ -1,3 +1,13 @@
 
 (A) update rails-bootstrap-toggle-buttons @oos
-arrumar resultados da busca +next
+(A) arrumar resultados da busca +next
+ver icone que não aparece +next
+(A) arrumar quando busca pelo campo de cima +next
+(B) ver essa treta tretosa de widget pra cá e widget pra lá +next
+(B) verificar a porraloca do link de busca avançada +next
+(C) avisar os manolos quanto à tela de config de user  +next
+
+
+
+
+(C) tirar o alert +next
