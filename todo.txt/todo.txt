@@ -1,13 +1,4 @@
-
-(A) update rails-bootstrap-toggle-buttons @oos
-(A) arrumar resultados da busca +next
-ver icone que não aparece +next
-(A) arrumar quando busca pelo campo de cima +next
-(B) ver essa treta tretosa de widget pra cá e widget pra lá +next
-(B) verificar a porraloca do link de busca avançada +next
-(C) avisar os manolos quanto à tela de config de user  +next
-
-
-
-
-(C) tirar o alert +next
+(B) verificar esses labels putos que não sao clicáveis +next
+(A) linha 105 advanced search js +FIXME +next
+(A) linha 345 advancedsearch js +FIXME +next
+(B) Javascripts are been called twice... +next

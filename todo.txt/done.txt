@@ -1,0 +1,15 @@
+x 2013-01-10 ver essa treta tretosa de widget pra cá e widget pra lá +next
+x 2013-01-10 tirar o alert +next
+x 2013-01-11 falar com o matrheus +next
+x 2013-01-11 verificar a porraloca do link de busca avançada +next
+x 2013-01-14 criar os metodos para criar o caminho da pasta e pegar o icone do documento +next
+x 2013-01-14 avisar os manolos quanto à tela de config de user  +next
+x 2013-01-14 arrumar quando busca pelo campo de cima +next
+x 2013-01-14 avisar que a pagina alerts do social nao esta sendo criada essa bosta +next
+x 2013-01-14 ver icone que não aparece +next
+x 2013-01-14 update rails-bootstrap-toggle-buttons @oos +oos
+x 2013-01-15 arrumar resultados da busca +next
+x 2013-01-15 +license-server 10.80.6.110:5566
+x 2013-01-15 ifs dos links +next
+x 2013-01-16 add os names nos fields e testar +next
+x 2013-01-16 fix the issue with the fuckin java applet container +next
