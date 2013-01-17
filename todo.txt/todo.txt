@@ -1,7 +1,3 @@
-(B) verificar esses labels putos que não sao clicáveis +next
-(A) linha 105 advanced search js +FIXME +next
-(A) linha 345 advancedsearch js +FIXME +next
-(B) Javascripts are been called twice... +next
-(C) fazer os outros bindings de url +next
-(A) fazer a tela de campos personalizados funcionar tbm +next
-(B) fix trim method called out of sync +FIXME +next
+(A) nao edita docs.. +next
+(A) procurar pasta :S +next
+(MOVER) ver advancedsearch linha 58 para o advancedsearchinf js deve resolver.. +next

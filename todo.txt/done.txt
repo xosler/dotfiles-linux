@@ -13,3 +13,13 @@ x 2013-01-15 +license-server 10.80.6.110:5566
 x 2013-01-15 ifs dos links +next
 x 2013-01-16 add os names nos fields e testar +next
 x 2013-01-16 fix the issue with the fuckin java applet container +next
+x 2013-01-17 fix trim method called out of sync +FIXME +next
+x 2013-01-17 linha 345 advancedsearch js +FIXME +next
+x 2013-01-17 fazer os outros bindings de url +next
+x 2013-01-17 verificar esses labels putos que não sao clicáveis +next
+x 2013-01-17 i18n na hora de deletar +next
+x 2013-01-17 fazer a tela de campos personalizados funcionar tbm +next
+x 2013-01-17 linha 105 advanced search js +FIXME +next
+x 2013-01-17 calendario maldito +next
+x 2013-01-17 Javascripts are been called twice... +next
+x 2013-01-17 as vezes ele appenda um # no final da url +next
