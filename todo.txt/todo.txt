@@ -1,3 +1,0 @@
-(A) nao edita docs.. +next
-(A) procurar pasta :S +next
-(MOVER) ver advancedsearch linha 58 para o advancedsearchinf js deve resolver.. +next
