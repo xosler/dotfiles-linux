@@ -1,6 +1,7 @@
 # The rest of my fun git aliases
 alias gl='git pull --prune'
-alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
+#alias glog="git log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
+alias gg="git log --oneline --abbrev-commit --all --graph --decorate --color"
 alias gp='git push origin HEAD'
 alias gd='git diff'
 alias gc='git commit'
@@ -22,11 +23,13 @@ gmerge() {
   git checkout develop
   git merge --no-ff $1
   git branch -d $1
-  git push origin develop
+#  git push origin develop
 }
 
 grel() {
   git checkout -b release$1 develop
 }
 
-
+gpd() {
+  git push origin develop
+}
