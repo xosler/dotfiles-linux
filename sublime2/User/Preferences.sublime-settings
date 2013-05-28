@@ -1,8 +1,7 @@
 {
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"drawWhiteSpace": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro",
 	"font_size": 9,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -14,11 +13,13 @@
 	"matchBracketsSquare": true,
 	"rulers":
 	[
-		80
+		80, // most langs
+		120 // java
 	],
 	"show_minimap": false,
+	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true
